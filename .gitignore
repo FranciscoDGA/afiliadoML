@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+dist
+coverage
+.env.local
+.env.*.local
+*.log
+vite-preview.log
+vite-preview.err.log
+.npm-cache/
+repo-test/
+PROMPT_MASTER.txt
